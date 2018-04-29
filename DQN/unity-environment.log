@@ -1,0 +1,6 @@
+4/29/2018 3:53:01 AM
+ 
+Exception
+Exception: Critical Error: "Hidden/BlitAdd" shader is missing. Make sure it is included in "Always Included Shaders" in ProjectSettings/Graphics.
+VolumetricLightRenderer.Awake () (at C:/Users/Bureau/Desktop/Driving_simulator_repo/driving-simulator/Assets/Scripts/VolumetricLight/Scripts/VolumetricLightRenderer.cs:191)
+
